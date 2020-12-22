@@ -77,9 +77,9 @@
                 </div>
             @endif
 
-            <div class="content">
+           <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    201865006 Diah Ayu Rahmayanti
                 </div>
 
                 <div class="links">
